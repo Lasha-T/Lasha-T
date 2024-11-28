@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @Lasha-T
-- 👀 I’m interested in web development
-- 💞️ I’m learning javascript based web apps and working on html/css/js simple projects
+Hello,
+my name is Lasha Tvauri.
+
+I am a Fullstack Developer focused on web applications development.
+
+My Portfolio
+https://lasha-t.github.io/MyPage/
